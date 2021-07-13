@@ -32,19 +32,19 @@ Crea una Pull Request para que tus instructores puedan verificar
 
 ### Iteración 1: Data types
   
-  1.1 Crea una variable que contenga la marca de un automóvil
+	1.1 Crea una variable que contenga la marca de un automóvil
 
-  1.2 Crea un variable para almacenar la edad
+	1.2 Crea un variable para almacenar la edad
   
 	1.3 Crea una variable `hacker1` con el nombre del conductor.
 
 	1.4 Imprime `"El nombre del conductor es XXXX"`.
   
-  1.5 Imprime la suma de los siguientes valores, usando las siguientes variables :  let numUno = 38, let numDos = 14
+  	1.5 Imprime la suma de los siguientes valores, usando las siguientes variables :  let numUno = 38, let numDos = 14
   
-  1.6 Crea una tarjeta de presentación, y crea variables tales como nombre, hobby, mascota
-    Haz que se despliegue la información en el lugar correcto:
-    Ejemplo : "Hola soy YYYY. Me gusta YYYYYY  en mis tiempos libres y tengo un YYYY como mascota"
+  	1.6 Crea una tarjeta de presentación, y crea variables tales como nombre, hobby, mascota
+            Haz que se despliegue la información en el lugar correcto:
+            Ejemplo : "Hola soy YYYY. Me gusta YYYYYY  en mis tiempos libres y tengo un YYYY como mascota"
 
 ### Conversión de tipos
 
